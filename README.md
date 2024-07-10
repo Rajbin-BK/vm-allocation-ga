@@ -88,8 +88,8 @@ This project demonstrates the successful application of a genetic algorithm to t
 
 Configuration
 
-    -The constants for CSP costs, reliability, and latency can be adjusted in the code.
-    -Modify the GA parameters (e.g., number of generations, mutation rate) as needed.
+    The constants for CSP costs, reliability, and latency can be adjusted in the code.
+    Modify the GA parameters (e.g., number of generations, mutation rate) as needed.
     
 Contributing
 Contributions are welcome! Please follow these steps:
